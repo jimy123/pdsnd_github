@@ -1,3 +1,9 @@
+"""
+Title: User Bikeshare Data Project
+Date: 27/07/2021
+Author: James Ross
+"""
+
 import time
 import pandas as pd #pandas version 1.3.0
 import numpy as np
