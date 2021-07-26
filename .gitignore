@@ -1,1 +1,9 @@
+#Ignoring any github path files
 .github/**
+
+#Ignoring project data files
+chicago.csv
+new_york_city.csv
+washington.csv
+
+
