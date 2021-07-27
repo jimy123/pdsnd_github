@@ -275,7 +275,7 @@ def user_stats(df):
     print('-'*40)
 
 def display_data(df):
-    """Displays 5 rows of individual trip data upon user prompting"""
+    """Prompts user if they wish to observe 5 rows of individual trip data at a time"""
     
     # check if user wants to view more data
     while True:
