@@ -1,17 +1,39 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+27/07/2021
 
 ### Project Title
-Replace the Project Title
+US Bikeshare Data Project
 
 ### Description
-Describe what your project is about and what it does
+An analysis of Chicago, New York and Washington bikeshare data provided by bikeshare company 'Motivate'.
+
+The statistical analysis included:
+
+    Most frequent times of travel:
+        *Month
+        *Day of week 
+        *Start hour
+
+    The most popular station and trip combinations:
+        *Most common start station
+        *Most common end station
+        *Most frequent combination of start station and end station trip
+
+    Total and average trip duration:
+        *Total travel time
+        *Mean travel time
+
+    User statistics:
+        *Count of user types (Customer/Subscriber) 
+        *Count of gender
+        *Earliest, most recent, and most common year of birth
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/ 
 
